@@ -1,5 +1,9 @@
 export const data = [
     {
+        query: "Hi Hello Who Are You",
+        response: "Hi👋 there! I'm a chatboat. You can ask me questions about SciAstra. How may I help you today?"
+    },
+    {
         query: "What is SciAstra",
         response: "SciAstra is an online learning platform that provides preparatory programs for students aiming to ace exams for institutes like IISERs, NISER, ISI, CMI, and IACS."
     },

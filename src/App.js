@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <div style={style} className="">
-        <span>Hi!👋 there!</span>
+        <span>Hi👋 there!</span>
         <span>I'm a chatboat</span>
         <span >Ask me about <span style={{fontWeight: "bold", filter: "drop-shadow(2px 2px 2px gray)"}}>SciAstra</span></span>
       </div>
